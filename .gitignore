@@ -5,6 +5,7 @@ npm-debug.log
 .env
 .DS_Store
 .vscode
+package
 
 ## cypress videos and screenshots
 cypress/videos
