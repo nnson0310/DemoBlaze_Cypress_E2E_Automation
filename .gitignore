@@ -1,0 +1,11 @@
+# project dependencies
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
+.vscode
+
+## cypress videos and screenshots
+cypress/videos
+cypress/screenshots

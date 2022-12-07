@@ -1,0 +1,15 @@
+{
+  "name": "demoblaze_cypress_e2e_automation",
+  "version": "1.0.0",
+  "description": "e2e automation testing with cypress for demoblaze dotcom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^12.0.1"
+  }
+}
